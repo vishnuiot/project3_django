@@ -1,0 +1,4 @@
+git status #-- list git files
+git add . # period is for all 
+git commit -m "change"
+git push origin https://github.com/vishnuiot/project3.git
