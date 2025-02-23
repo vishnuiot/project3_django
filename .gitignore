@@ -1,4 +1,5 @@
 /.venv
 /old
 apikey.env
-djangotutorial
+/djangotutorial/db.sqlite3
+
